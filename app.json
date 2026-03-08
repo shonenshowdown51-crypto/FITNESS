@@ -37,18 +37,7 @@
     "typedRoutes": true
   },
 
-  "sdkVersion": "54.0.0",
-
-  "platforms": [
-    "ios",
-    "android",
-    "web"
-  ],
-
   "extra": {
-    "router": {},
-    "eas": {
-      "projectId": "7699b264-2310-4f76-a471-fbf7899662eb"
-    }
+    "router": {}
   }
 }
